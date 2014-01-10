@@ -1,13 +1,13 @@
 var nav = [
   {
     name: 'Login',
-    url: '/',
+    url: '/login',
     ctrl: 'loginCtrl',
     tmpl: 'views/login.html'
   },
   {
     name: 'Home',
-    url: '/home',
+    url: '/',
     ctrl: 'homeCtrl',
     tmpl: 'views/home.html'
   }
